@@ -1,0 +1,10 @@
+{
+  "name": "BreatheWise AI",
+  "description": "AI-powered Urban Air Quality Assistant that converts pollution and weather data into personalized daily routines, indoor air optimization, and family protection guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
